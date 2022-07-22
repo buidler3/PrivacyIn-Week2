@@ -8,6 +8,6 @@ npm install
 Try running some of the following tasks:
 
 ```shell
-. scripts/compile-HelloWorld.sh
+. scripts/function-compile.sh
 node scripts/bump-solidity.js && npx hardhat test
 ```
